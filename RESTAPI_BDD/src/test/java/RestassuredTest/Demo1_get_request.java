@@ -9,7 +9,7 @@ import static org.hamcrest.Matchers.*;
 //then() validtae status code,header info,response body
 public class Demo1_get_request {
 	
-	
+	//get reuest
 	@Test
 	public void getWeatherDetails() {
 		given()
